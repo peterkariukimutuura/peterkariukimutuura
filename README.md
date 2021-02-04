@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+What do you call a fish with no eye? fsh .
+
 <!--
 **peterkariukimutuura/peterkariukimutuura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
