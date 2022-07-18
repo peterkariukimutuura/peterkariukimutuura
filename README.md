@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[https://www.linkedin.com/in/peterkariukimutuura/](https://www.linkedin.com/in/peterkariukimutuura/)
 .
 
 <!--
