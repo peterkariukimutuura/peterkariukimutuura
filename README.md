@@ -13,7 +13,7 @@
   - Google Cloud Professional Cloud Architect
   - Google Cloud Data Engineer
 
-The above certifications are very much easily achievable , reachout to me on [ my linkedin profile](https://www.linkedin.com/in/peterkariukimutuura/) and i'll share the materials that i have been using.
+The above certifications are easy to achieve , reachout to me on [ my linkedin profile](https://www.linkedin.com/in/peterkariukimutuura/) and i'll share the materials that i have been using.
 
 
 
