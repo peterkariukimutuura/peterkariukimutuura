@@ -5,9 +5,9 @@
   - Google Cloud Certified Associate Engineer
   - AWS Certified Cloud Practitioner
   - Zscaler Sales Engineer
+  - Microsoft Certified: Azure Fundamentals
   
 - I'm working on achieving this ones (in order of priority)
-  - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Azure Administrator Associate
   - AWS Certified Solutions Architect Associate
   - Google Cloud Professional Cloud Architect
