@@ -9,7 +9,9 @@
   
 - I'm working on achieving this ones (in order of priority)
   - Microsoft Certified: Azure Administrator Associate
+  - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect Associate
+  - AWS Certified Solutions Architect - Professional
   - Google Cloud Professional Cloud Architect
   - Google Cloud Data Engineer
 
