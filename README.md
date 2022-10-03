@@ -9,13 +9,17 @@
   
 - I'm working on achieving this ones (in order of priority)
   - Microsoft Certified: Azure Administrator Associate
+  - Zscaler Internet Access Certified Administrator
+  - Zscaler Private Access Certified Administrator
+  - ZIA Certified Professional
+  - ZPA Certified Professional
   - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect Associate
   - AWS Certified Solutions Architect - Professional
   - Google Cloud Professional Cloud Architect
   - Google Cloud Data Engineer
 
-The above certifications are easy to achieve , reachout to me on [ my linkedin profile](https://www.linkedin.com/in/peterkariukimutuura/) and i'll share the materials that i have been using.
+[ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
 
 
 
