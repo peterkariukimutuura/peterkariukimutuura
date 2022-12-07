@@ -6,11 +6,11 @@
   - AWS Certified Cloud Practitioner
   - Zscaler Sales Engineer
   - Microsoft Certified: Azure Fundamentals
+  - Zscaler Internet Access Certified Administrator
+  - Zscaler Private Access Certified Administrator
   
 - I'm working on achieving this ones (in order of priority)
   - Microsoft Certified: Azure Administrator Associate
-  - Zscaler Internet Access Certified Administrator
-  - Zscaler Private Access Certified Administrator
   - ZIA Certified Professional
   - ZPA Certified Professional
   - Microsoft Certified: Azure Solutions Architect Expert
