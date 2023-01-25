@@ -8,11 +8,11 @@
   - Microsoft Certified: Azure Fundamentals
   - Zscaler Internet Access Certified Administrator
   - Zscaler Private Access Certified Administrator
+  - ZIA Certified Professional
+  - ZPA Certified Professional
   
 - I'm working on achieving this ones (in order of priority)
   - Microsoft Certified: Azure Administrator Associate
-  - ZIA Certified Professional
-  - ZPA Certified Professional
   - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect Associate
   - AWS Certified Solutions Architect - Professional
