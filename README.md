@@ -12,6 +12,8 @@
   - ZPA Certified Professional
   
 - I'm working on achieving this ones (in order of priority)
+  - ZIA Deployment Specialist
+  - ZPA Deployment Specialist
   - Microsoft Certified: Azure Administrator Associate
   - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect Associate
