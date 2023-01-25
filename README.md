@@ -6,8 +6,8 @@
   - AWS Certified Cloud Practitioner
   - Zscaler Sales Engineer
   - Microsoft Certified: Azure Fundamentals
-  - Zscaler Internet Access Certified Administrator
-  - Zscaler Private Access Certified Administrator
+  - Zscaler Internet Access (ZIA) Certified Administrator
+  - Zscaler Private Access (ZPA) Certified Administrator
   - ZIA Certified Professional
   - ZPA Certified Professional
   
