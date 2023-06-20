@@ -17,11 +17,12 @@
 
   
 - I'm working on achieving this ones.
+  - 200-301 - Cisco Certified Network Associate
+  - Google Cloud Professional Cloud Architect
   - Microsoft Certified: Azure Administrator Associate
   - Microsoft Certified: Azure Solutions Architect Expert
   - AWS Certified Solutions Architect Associate
   - AWS Certified Solutions Architect - Professional
-  - Google Cloud Professional Cloud Architect
   - Google Cloud Data Engineer
 
 [ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
