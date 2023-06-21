@@ -7,6 +7,7 @@
     - [Zscaler Sales Engineer](https://verify.skilljar.com/c/6td5g2iz2rbc)
     - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/3a5dfd6b-e5ce-4c8c-a187-51d3702f511d)
   - Currently achieved **Cloud Security Certifications**
+    - [Zero Trust Certified Architect (ZTCA)](https://verify.skilljar.com/c/9jp6n5k38stx)
     - [Zscaler Internet Access (ZIA) Certified Administrator](https://verify.skilljar.com/c/8gnhjushgx2i)
     - [Zscaler Private Access (ZPA) Certified Administrator](https://verify.skilljar.com/c/dqaipjcwx95e)
     - [Zscaler Internet Access (ZIA) Certified Professional](https://verify.skilljar.com/c/ix552m73za6v)
@@ -16,7 +17,7 @@
     - [Zscaler Certified Sales Engineer](https://verify.skilljar.com/c/6td5g2iz2rbc)
 
   
-- I'm working on achieving this ones.
+- I'm working on attaining these certificates.
   - 200-301 - Cisco Certified Network Associate
   - Google Cloud Professional Cloud Architect
   - Microsoft Certified: Azure Administrator Associate
