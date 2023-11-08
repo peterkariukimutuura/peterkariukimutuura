@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on my cloud computing skills and knowledge by achieving as many certifications as i can.
+🔭 I’m a Senior Software Engineer, working on my cloud computing skills and knowledge by achieving as many certifications as i can.
   - Currently achieved **Cloud Computing Certifications**
     - [Google Cloud Certified Associate Engineer](https://www.credential.net/5a32cc46-91f3-4880-9724-d9621db3ff99)
     - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b3fcfb08-7731-47e9-b5a5-fa1cfe9c50ac)
