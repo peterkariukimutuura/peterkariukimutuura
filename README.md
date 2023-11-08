@@ -6,6 +6,7 @@
     - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b3fcfb08-7731-47e9-b5a5-fa1cfe9c50ac)
     - [Zscaler Sales Engineer](https://verify.skilljar.com/c/6td5g2iz2rbc)
     - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/3a5dfd6b-e5ce-4c8c-a187-51d3702f511d)
+    - [200-301 - Cisco Certified Network Associate](https://drive.google.com/file/d/1t3w4Rh5DdL-0oZn266I9Ec2RtkP00l7p/view)
   - Currently achieved **Cloud Security Certifications**
     - [Zero Trust Certified Architect (ZTCA)](https://verify.skilljar.com/c/9jp6n5k38stx)
     - [Zscaler Internet Access (ZIA) Certified Administrator](https://verify.skilljar.com/c/8gnhjushgx2i)
@@ -18,7 +19,6 @@
 
   
 - I'm working on attaining these certificates.
-  - 200-301 - Cisco Certified Network Associate
   - Google Cloud Professional Cloud Architect
   - Microsoft Certified: Azure Administrator Associate
   - Microsoft Certified: Azure Solutions Architect Expert
