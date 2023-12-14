@@ -1,4 +1,7 @@
 ### Hi there 👋 
+I'm a Senior Cloud Solutions Engineer, [ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
+
+<!--
 
 🔭 I’m a Senior Software Engineer, working on my cloud computing skills and knowledge by achieving as many certifications as i can.
   - Currently achieved **Cloud Computing Certifications**
@@ -26,12 +29,7 @@
   - AWS Certified Solutions Architect - Professional
   - Google Cloud Data Engineer
 
-[ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
 
-
-
-
-<!--
 **peterkariukimutuura/peterkariukimutuura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
