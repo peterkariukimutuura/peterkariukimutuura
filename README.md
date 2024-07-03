@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm a Senior Cloud Solutions Engineer, [ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
+I'm a Senior Cloud Engineer, [ Let's connect on  Linkedin ](https://www.linkedin.com/in/peterkariukimutuura/) 
 
 <!--
 
